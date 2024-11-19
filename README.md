@@ -1,4 +1,4 @@
-# 🏡 🛌 Airbnb Project Background
+# 🏡 🛌 Project Background
 Airbnb operates as an online intermediary by connecting property owners who want to rent their places with those looking for accommodation. These accommodations can be very diverse, from rooms to entire apartments, and can be booked for short-term rentals. Guests can check out these properties, compare prices, read reviews and book them. All with just one click through the website or the application.
 
 The company has substantial data on its accommodations details, location information, pricing, host profiles, availability, and guest reviews that have been underutilized. This project analyzes Airbnb's accommodations in Seville from January to June 2024 and synthesizes this data in order to uncover critical insights that will improve Airbnb's financial success.
