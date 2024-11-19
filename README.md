@@ -18,7 +18,7 @@ The company has substantial data on its accommodations details, location informa
 * **Regulation:** An analysis of listing counts by license types.
 * **Reviews and Reputation:** Examination of monthly reviews concentrating in the volume of listings, accentuating consumer preferences and satisfaction.
 
-The Python queries used to inspect and clean the data for this analysis can be found [here.](https://github.com/andrealopezp/EDA_Visualization_Accommodation/blob/main/EDA_accommodation.ipynb)
+The Python queries used to inspect and clean the data for this analysis can be found [here.](https://github.com/andrealopezp/AccommodationAnalysis/blob/main/EDA_accommodation.ipynb)
 
 An interactive Tableau dashboard used to report and explore sales trends can be found [here.](https://public.tableau.com/app/profile/andrealopezp/viz/SevilleVacationRentalsInteractiveAirbnbMarketDashboard/Dashboard)
 
